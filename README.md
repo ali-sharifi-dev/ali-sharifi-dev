@@ -1,7 +1,16 @@
-## Hi there 👋
+### Hey 👋, This is Ali Sharifi
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning Java, Gnu/Linux
+- 📫 Email: ali.sharifi.dev@gmail.com
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-sharifi-dev&theme=github_dark)
+
+### VISITOR COUNT
+
+![VISITOR COUNT](https://profile-counter.glitch.me/ali-sharifi-dev/count.svg)
 
 <!--
-**ali-sharifi-dev/ali-sharifi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ali-1Dev/Ali-1Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
