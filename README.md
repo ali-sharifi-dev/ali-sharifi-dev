@@ -1,13 +1,13 @@
-# Hey 👋, I'm Ali Sharifi
+## Hey 👋, I'm Ali Sharifi
 
-## About Me
+### About Me
 👀 I’m passionate about software development and always eager to learn new technologies.
 
 🌱 I’m currently learning:
 - Java
 - GNU/Linux
 
-## Contact Me
+### Contact Me
 📫 You can reach me at: ali.sharifi.dev@gmail.com
 
 <!-- todo add this
@@ -16,12 +16,12 @@
 - **[Project Name](link-to-project)**: Brief description of the project.
 -->
 
-## Skills
+### Skills
 - Java
 - GNU/Linux
 
   
-## GitHub Stats
+### GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-sharifi-dev&show_icons=true&theme=github_dark)
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-sharifi-dev&theme=github_dark)
