@@ -24,8 +24,6 @@
 ### GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-sharifi-dev&show_icons=true&theme=github_dark)
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-sharifi-dev&theme=github_dark)
-
 ### VISITOR COUNT
 ![VISITOR COUNT](https://profile-counter.glitch.me/ali-sharifi-dev/count.svg)
 
