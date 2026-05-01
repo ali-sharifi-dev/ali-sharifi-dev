@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning:
 - Java
-- GNU/Linux
+- Linux
 
 ### Contact Me
 📫 You can reach me at: ali.sharifi.dev@gmail.com
