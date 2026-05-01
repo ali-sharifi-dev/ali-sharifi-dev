@@ -1,7 +1,7 @@
-## Hey 👋, I'm Ali Sharifi
+## Hey 👋, I'm Ali sharifi
 
 ### About Me
-👀 I’m passionate about software development and always eager to learn new technologies.
+👀 I’m passionate about software development/engineering and always eager to learn new technologies.
 
 🌱 I’m currently learning:
 - Java
@@ -18,7 +18,7 @@
 
 ### Skills
 - Java
-- GNU/Linux
+- Linux
 
   
 ### GitHub Stats
@@ -35,8 +35,6 @@
 
 
 <!--
-**Ali-1Dev/Ali-1Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
